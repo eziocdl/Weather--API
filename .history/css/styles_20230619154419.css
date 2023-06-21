@@ -1,0 +1,10 @@
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: "ubuntu", sans-serif;
+}
+
+body {
+    background: linear-gradient(180deg);
+}
